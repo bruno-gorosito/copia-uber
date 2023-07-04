@@ -1,0 +1,43 @@
+
+
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 3rem;
+}
+
+
+.imgPrincipal {
+    max-height: 675px;
+}
+
+
+
+
+.drive {
+    margin-left: 5rem;
+}
+
+.eat {
+    margin-left: 18.7rem;
+}
+
+.ride {
+    margin-left: 32.4rem;
+}
+
+
+@media (max-width: 1024px) {
+    .drive {
+        margin-left: 1.1rem;
+    }
+    
+    .eat {
+        margin-left: 8.1rem;
+    }
+    
+    .ride {
+        margin-left: 15rem;
+    }
+}

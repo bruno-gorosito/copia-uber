@@ -1,0 +1,112 @@
+{
+    "menu.company": "Company",
+    "menu.safety": "Safety",
+    "menu.help": "Help",
+    "menu.products": "Products",
+    "menu.log-in": "Log in",
+    "menu.sign-up": "Sign up",
+
+    "company.list1": "About us",
+    "company.list2": "Our offerings",
+    "company.list3": "How Uber works",
+    "company.list4": "Global citizenship",
+    "company.list5": "Newsroom",
+    "company.list6": "Investor relations",
+    "company.list7": "Blog",
+    "company.list8": "Careers",
+
+    "productos.item1": "Home",
+    "productos.item2": "Ride",
+    "productos.item3": "Drive",
+    "productos.item4": "Eat",
+    "productos.item5": "Merchants",
+    "productos.item6": "Freight",
+    "productos.item7": "Bike & scoot",
+    "productos.item8": "Transit",
+    "productos.item9": "Business",
+    "productos.item10": "Money",
+
+
+    "conduce.listItem": "Drive or deliver",
+    "conduce.title": "Get in the driver’s seat and get paid",
+    "conduce.text": "Drive on the platform with the largest network of active riders.",
+    "conduce.button": "Sign up to drive",
+    "conduce.link": "Lean more about driving and delivering",
+
+
+    "eat.listItem": "Eat",
+    "eat.title": "Discover delicious eats",
+    "eat.text": "Order delivery from restaurants you love.",
+    "eat.button": "Order now",
+    "eat.link": "Own a restaurant? Partner with Uber Eats",
+
+    
+    "ride.listItem": "Ride",
+    "ride.title": "Request a ride now",
+    "ride.location": "Enter pickup location",
+    "ride.destination": "Enter destination",
+    "ride.button1": "Request now",
+    "ride.button2": "Schedule for later",
+
+
+    "idioma.text": "Select your preferred language",
+
+
+    "business.title": "The Uber you know, reimagined for business",
+    "business.text": "A platform for managing global rides and meals, and local deliveries, for companies of any size.",
+    "business.button": "Get started",
+
+
+    "sides.title": "Focused on safety, wherever you go",
+
+    "side1.title": "Our commitment to your safety",
+    "side1.text": "With every safety feature and every standard in our Community Guidelines, we're committed to helping to create a safe environment for our users.",
+    "side1.link1": "Read about our Community Guidelines",
+    "side1.link2": "See all safety features",
+
+    "side2.title": "Setting 10,000+ cities in motion",
+    "side2.text": "The app is available in thousands of cities worldwide, so you can request a ride even when you’re far from home.",
+    "side2.link": "View all cities",
+    
+
+
+
+    "about-us.title": "About us",
+    "about-us.text": "Find out how we started, what drives us, and how we’re reimagining how the world moves.",
+    "about-us.link": "Learn more about Uber",
+
+
+    "newsroom.title": "Newsroom",
+    "newsroom.text": "See announcements about our latest releases, initiatives, and partnerships.",
+    "newsroom.link": "Go to Newsroom",
+
+
+    "global-citizenship.title": "Global citizenship",
+    "global-citizenship.text": "Read about our commitment to making a positive impact in the cities we serve.",
+    "global-citizenship.link": "See our partnerships",
+
+
+    "apps.title": "There’s more to love in the apps",
+    "apps.1": "Download the Driver app",
+    "apps.2": "Download the Uber app",
+
+
+    "signup.drive": "Sign up to drive",
+    "signup.ride": "Sign up to ride",
+
+    "login.item1": "Sign in to drive & deliver",
+    "login.item2": "Sign in to ride",
+    "login.item3": "Sign in to order delivery with Uber Eats",
+    "login.item4": "Sign in to your Uber for Business account",
+
+
+    "signup.item1": "Sign up to drive & deliver",
+    "signup.item2": "Create a rider account",
+    "signup.item3": "Order delivery with Uber Eats",
+    "signup.item4": "Sign up for Uber for Business"
+
+
+    
+
+
+}

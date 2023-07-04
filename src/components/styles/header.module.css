@@ -1,0 +1,115 @@
+
+
+.menuCompany {
+    position: absolute;
+    top: 100%;
+    color: rgba(109, 109, 109, 0.836);
+    background-color: white;
+    margin-top: .72rem;
+    width: 250px;
+    font-weight: 400;
+    border-radius: 0 0 .5rem .5rem;
+    overflow: hidden;
+    transition: all .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transform: scaleY(0);
+    transform-origin: top;
+    opacity: 0;
+    z-index: 10;
+    box-shadow: -1px 21px 80px 1px rgba(0,0,0,0.43);
+    -webkit-box-shadow: -1px 21px 80px 1px rgba(0,0,0,0.43);
+    -moz-box-shadow: -1px 21px 80px 1px rgba(0,0,0,0.43);
+}
+
+.menuCompany :hover {
+    background-color: #d8d8d885!important;
+    cursor: pointer;
+    color: rgb(37, 37, 37);
+}
+
+.menuCompany.active {
+    transform: scaleY(1);
+    opacity: 1;
+}
+
+
+.menuFullWindow {
+    position: sticky !important;
+    top: 4.5rem;
+    position: relative;
+    transform: scaleY(0);
+    opacity: 0;
+    transform-origin: top;
+    transition: all .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    background-color: white;
+}
+
+
+.menuFullWindow.active {
+    padding: 1rem 2rem;
+    transform: scaleY(1);
+    opacity: 1;
+    overflow: scroll;
+    height: calc(100vh - 4rem);
+    z-index: 1;
+}
+
+
+.menuProducts {
+    position: absolute;
+    top: 100%;
+    right: 9rem;
+    width: 275px;
+    height: 300px;
+    overflow-y: scroll;
+    margin: .72rem;
+    color: black;
+    border-radius: 0 0 1rem 1rem;
+    transform: scaleY(0);
+    opacity: 0;
+    transform-origin: top;
+    transition: all .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    background-color: white;
+    box-shadow: -1px 21px 80px 1px rgba(0,0,0,0.43);
+    -webkit-box-shadow: -1px 21px 80px 1px rgba(0,0,0,0.43);
+    -moz-box-shadow: -1px 21px 80px 1px rgba(0,0,0,0.43);
+}
+
+
+.menuProducts.active {
+    transform: scaleY(1);
+    opacity: 1;
+}
+
+.menuMobile.active {
+    position: sticky;
+    z-index: 1!important;
+}
+
+.menuMobile li {
+    font-family: 'Uber Move', sans-serif;
+}
+
+
+.menuCompanyMobile {
+    color: rgba(109, 109, 109, 0.836);
+    background-color: white;
+    width: 100%;
+    height: 0;
+    font-weight: 400;
+    font-size: 1.1rem;
+    border-radius: 0 0 .5rem .5rem;
+    transform: scaleY(0);
+    transform-origin: top;
+}
+
+.menuCompanyMobile li {
+    padding: 1rem 1rem;
+}
+
+
+.menuCompanyMobile.active {
+    transform: scaleY(1);
+    height: auto;
+    opacity: 1;
+}
+

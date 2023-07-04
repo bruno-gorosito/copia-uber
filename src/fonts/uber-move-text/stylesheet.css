@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('UberMoveTextAR-Regular.eot');
+    src: local('Uber Move Text AR Regular'), local('UberMoveTextAR-Regular'),
+        url('UberMoveTextAR-Regular.eot?#iefix') format('embedded-opentype'),
+        url('UberMoveTextAR-Regular.woff2') format('woff2'),
+        url('UberMoveTextAR-Regular.woff') format('woff'),
+        url('UberMoveTextAR-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('UberMoveTextAR-Medium.eot');
+    src: local('Uber Move Text AR Medium'), local('UberMoveTextAR-Medium'),
+        url('UberMoveTextAR-Medium.eot?#iefix') format('embedded-opentype'),
+        url('UberMoveTextAR-Medium.woff2') format('woff2'),
+        url('UberMoveTextAR-Medium.woff') format('woff'),
+        url('UberMoveTextAR-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('UberMoveTextAR-Light.eot');
+    src: local('Uber Move Text AR Light'), local('UberMoveTextAR-Light'),
+        url('UberMoveTextAR-Light.eot?#iefix') format('embedded-opentype'),
+        url('UberMoveTextAR-Light.woff2') format('woff2'),
+        url('UberMoveTextAR-Light.woff') format('woff'),
+        url('UberMoveTextAR-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('UberMoveTextAR-Bold.eot');
+    src: local('Uber Move Text AR Bold'), local('UberMoveTextAR-Bold'),
+        url('UberMoveTextAR-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UberMoveTextAR-Bold.woff2') format('woff2'),
+        url('UberMoveTextAR-Bold.woff') format('woff'),
+        url('UberMoveTextAR-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

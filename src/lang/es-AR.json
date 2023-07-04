@@ -1,0 +1,109 @@
+{
+    "menu.company": "Compañía",
+    "menu.safety": "Seguridad",
+    "menu.help": "Ayuda",
+    "menu.products": "Productos",
+    "menu.log-in": "Inicia sesión",
+    "menu.sign-up": "Regístrate",
+
+    "company.list1": "Quiénes somos",
+    "company.list2": "Lo que ofrecemos",
+    "company.list3": "Cómo funciona Uber",
+    "company.list4": "Ciudadanía global",
+    "company.list5": "Sala de prensa",
+    "company.list6": "Relaciones con los inversionistas",
+    "company.list7": "Blog",
+    "company.list8": "Carreras",
+
+    "productos.item1": "Inicio",
+    "productos.item2": "Viaje",
+    "productos.item3": "Conducir",
+    "productos.item4": "Comidas",
+    "productos.item5": "Establecimientos",
+    "productos.item6": "Uber Freight",
+    "productos.item7": "Bicicletas y scooter",
+    "productos.item8": "Uber Transit",
+    "productos.item9": "Uber para empresas",
+    "productos.item10": "Uber Money",
+    
+    "conduce.listItem": "Conduce o haz entregas",
+    "conduce.title": "Ponte al volante y genera ganancias",
+    "conduce.text": "Conduce en la plataforma que tiene la mayor cantidad de usuarios activos.",
+    "conduce.button": "Regístrate para conducir",
+    "conduce.link": "Conoce más sobre cómo conducir y hacer entregas",
+
+
+    "eat.listItem": "Comida",
+    "eat.title": "Descubre comida deliciosa",
+    "eat.text": "Haz pedidos de tus restaurantes favoritos.",
+    "eat.button": "Pedir ahora",
+    "eat.link": "¿Tienes un restaurante? Asóciate con Uber Eats",
+
+    
+    "ride.listItem": "Viaje",
+    "ride.title": "Pide un viaje ahora",
+    "ride.location": "Ingresa el punto de partida",
+    "ride.destination": "Ingresa un destino",
+    "ride.button1": "Pedir ahora",
+    "ride.button2": "Programar para más tarde",
+
+
+    "idioma.text": "Seleccionar mi idioma preferido",
+
+
+    "business.title": "La misma plataforma de Uber, reinventada para los negocios",
+    "business.text": "Una plataforma para que empresas de todos los tamaños administren viajes y comidas globales, y entregas locales.",
+    "business.button": "Comenzar",
+
+
+    "sides.title": "Siempre pensamos en tu seguridad, vayas donde vayas",
+
+    "side1.title": "Tu seguridad es muy importante para nosotros",
+    "side1.text": "Con los recursos y estándares de seguridad que incorporamos en nuestras Guías comunitarias, nos comprometemos a crear un entorno seguro para nuestros usuarios.",
+    "side1.link1": "Consulta nuestras Guías comunitarias",
+    "side1.link2": "Consulta las funciones de seguridad",
+
+    "side2.title": "Movilizamos más de 10 000 ciudades",
+    "side2.text": "La app está disponible en miles de ciudades de todo el mundo, por lo que puedes solicitar un viaje aún cuando estés lejos de casa.",
+    "side2.link": "Ver todas las ciudades",
+    
+
+
+    "about-us.title": "Quiénes somos",
+    "about-us.text": "Descubre cómo comenzó todo, qué nos motiva y cómo reinventamos la movilidad en el mundo.",
+    "about-us.link": "Conoce más sobre la app de Uber",
+
+
+    "newsroom.title": "Sala de prensa",
+    "newsroom.text": "Accede a los anuncios sobre nuestros últimos lanzamientos, iniciativas y asociaciones.",
+    "newsroom.link": "Ingresa a la sala de prensa",
+
+
+    "global-citizenship.title": "Ciudadanía global",
+    "global-citizenship.text": "Lee sobre nuestro compromiso para tener un impacto positivo en las ciudades donde operamos.",
+    "global-citizenship.link": "Conoce nuestras asociaciones",
+
+
+    "apps.title": "Descubre las demás opciones que te ofrecen las apps",
+    "apps.1": "Descarga la app para socios",
+    "apps.2": "Descarga la app de Uber",
+
+
+
+    "signup.drive": "Registrate para conducir",
+    "signup.ride": "Registrate para hacer viajes",
+
+    "login.item1": "Inicia sesión para conducir y hacer entregas",
+    "login.item2": "Inicia sesión para viajar",
+    "login.item3": "Inicia sesión para hacer pedidos con la app de Uber Eats",
+    "login.item4": "Inicia sesión en tu cuenta de Uber para Empresas",
+
+
+    "signup.item1": "Regístrate para conducir y hacer entregas",
+    "signup.item2": "Crea una cuenta de usuario",
+    "signup.item3": "Haz pedidos con la app de Uber Eats",
+    "signup.item4": "Regístrate en Uber para Empresas"
+
+
+    
+}
